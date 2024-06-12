@@ -37,6 +37,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 # Acknowledgments
 
--> Thanks to Socket.io for real-time communication.
+-> Thanks to @Socket.io for real-time communication.
+
 -> This project was inspired by the need for a real-time chat application.
 
